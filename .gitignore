@@ -56,3 +56,6 @@ redis_data/
 *.swo
 .DS_Store
 Thumbs.db
+
+/k8s/secret.yaml
+/k8s-minikube/secret.yaml
